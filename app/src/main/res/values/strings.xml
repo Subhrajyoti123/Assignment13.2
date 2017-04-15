@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My ContentProvider2</string>
+    <string name="hello_world">hello world</string>
+    <string name="mystring">START SERVICE</string>
+</resources>
